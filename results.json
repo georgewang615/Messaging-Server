@@ -1,0 +1,15 @@
+[
+  {"register": "Passed" },
+  {"login": "Passed" },
+  {"create": "Passed" },
+  {"joinchan": "Passed" },
+  {"say1": "Passed" },
+  {"say2": "Passed" },
+  {"say3": "Passed" },
+  {"channels": "Passed" },
+  {"utf8": "Passed" },
+  {"multi_register": "Passed" },
+  {"multi_login": "Passed" },
+  {"multi_create": "Passed" },
+  {"multi_joinchan": "Passed" }
+]

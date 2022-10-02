@@ -1,0 +1,5 @@
+REGISTER 대박 123
+LOGIN 대박 123
+CREATE 家庭
+JOIN 家庭
+SAY 家庭 你好
